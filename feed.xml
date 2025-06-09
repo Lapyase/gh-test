@@ -3,10 +3,30 @@
     <title>Test</title>
     <link href="https://lapyase.github.io/gh-test/feed.xml" rel="self" />
     <link href="https://lapyase.github.io/gh-test" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2025-06-09T16:49:55+08:00</updated>
     <author>
         <name>Lapy</name>
     </author>
     <id>https://lapyase.github.io/gh-test</id>
 
+    <entry>
+        <title>test</title>
+        <author>
+            <name>Lapy</name>
+        </author>
+        <link href="https://lapyase.github.io/gh-test/test.html"/>
+        <id>https://lapyase.github.io/gh-test/test.html</id>
+
+        <updated>2025-06-09T16:49:55+08:00</updated>
+            <summary>
+                <![CDATA[
+                    10.希区柯特的炸弹理论:简单来说，这里理论就是讲，需要在故事开始前，向观众展示一个危机，观众知道，但剧情中的人物并不知道。而这个危机似乎随时都可能爆发。这样，便形成了一个悬念和故事张力。
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p id="20250609164951-dns3iu6">10.希区柯特的炸弹理论:简单来说，这里理论就是讲，需要在故事开始前，向观众展示一个危机，观众知道，但剧情中的人物并不知道。而这个危机似乎随时都可能爆发。这样，便形成了一个悬念和故事张力。</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
