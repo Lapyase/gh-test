@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://lapyase.github.io/gh-test/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://lapyase.github.io/gh-test/</loc>
+</url>
+<url>
+<loc>https://lapyase.github.io/gh-test/daohang.html</loc>
+<lastmod>2025-06-09T19:37:22+08:00</lastmod>
+</url>
+<url>
+<loc>https://lapyase.github.io/gh-test/test.html</loc>
+<lastmod>2025-06-09T16:49:55+08:00</lastmod>
+</url>
+<url>
+<loc>https://lapyase.github.io/gh-test/xin-li.html</loc>
+<lastmod>2025-06-09T19:03:38+08:00</lastmod>
+</url>
+</urlset>
